@@ -1,0 +1,9 @@
+/**
+ * @author lajiaomian
+ * @create 2022-07-25-22:26
+ */
+public class hello {
+    public static void main(String[] args) {
+        System.out.println("hi,I am lajioamian!");
+    }
+}
