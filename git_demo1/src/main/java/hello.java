@@ -5,5 +5,6 @@
 public class hello {
     public static void main(String[] args) {
         System.out.println("hi,I am lajioamian!");
+        System.out.println("hi,it second times to meet you");
     }
 }
